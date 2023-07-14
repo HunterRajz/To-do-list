@@ -25,6 +25,6 @@ toaddbutton.addEventListener('click', ()=>{
 
 
 // let myName, myRole;
-// let array = ['Dhrub', vWeb Developer'];
+// let array = ['Dhruv', 'Web Developer'];
 // [myName, myRole] = array;        
 // console.log(myName, my Role);  
