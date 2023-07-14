@@ -25,6 +25,6 @@ toaddbutton.addEventListener('click', ()=>{
 
 
 // let myName, myRole;
-// let array = ['Chaitanya', 'Web Developer'];
-// [myName, myRole] = array;        //positional assignment occurs here
-// console.log(myName, my Role);   //Chaitanya Web Developer
+// let array = ['Dhrub', vWeb Developer'];
+// [myName, myRole] = array;        
+// console.log(myName, my Role);  
